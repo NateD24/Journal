@@ -1,4 +1,4 @@
-# Journal
+# <h1 align"center">Journal</h1>
 
   repository-A directory or storage space where your projects can live
   git- Git is a command line tool
